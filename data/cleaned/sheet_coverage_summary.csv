@@ -1,0 +1,16 @@
+sheet,rows,columns,missing_%,duplicate_rows,status,role
+01 Crop production 1997-2022,74242,8,0.0,0,USED,Cleaned (yield ceilings); long-run trends; cross-check of UPAG yields
+02 NFHS-5 district nutrition,706,109,5.4,0,USED,"Core outcomes (stunting, wasting, underweight, anaemia) and household factors"
+03 Agmarknet state monthly,203798,7,6.6,0,USED,State-level staple price volatility (2019-22)
+04 Agmarknet market daily (sample),275423,7,0.0,0,PROFILED,"Market-level, every 6th day, Nov 2025-Oct 2026: a year after the NFHS-5 survey, so not comparable. Suited to a Phase 3 live-price view"
+05 UPAG district (food grains),719427,7,0.0,0,USED,"District area, production, yield: the agriculture side of the analysis"
+06 UPAG state area/production/yield,57989,12,0.1,0,PROFILED,State totals and subtotals of the district data we already use; adding them would double count
+07 MSP,1003,8,0.0,0,PROFILED,"National support prices, no district variation, so cannot be linked to district outcomes"
+08 WPI monthly,7079,6,0.0,0,PROFILED,"National price index, no district variation"
+09 FCI procurement,363,8,0.0,0,USED,State-level rice+wheat procurement (state context)
+10 Agricultural trade,467,7,2.7,4,PROFILED,"National exports/imports, no district variation"
+11 HCES free-item rates,680,8,0.0,0,PROFILED,"Valuation rates for free items, not household consumption data"
+12 PDS monthly national,25,11,0.0,0,APPENDIX B,"Food-distribution trend (national, Jul 2019 - Jul 2021)"
+13 PDS state portability,1808,5,0.0,0,APPENDIX B,Inter-state ration-portability flows
+14 State code crosswalk,36,6,0.0,0,PROFILED,Superseded by the notebook's own state-name normalisation (its spelling errors are logged)
+15 District name crosswalk (provided),739,6,2.2,0,CROSS-CHECKED,Compared with the notebook's own district matching below

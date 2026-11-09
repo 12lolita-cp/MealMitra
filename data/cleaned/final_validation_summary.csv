@@ -1,0 +1,8 @@
+file,rows,columns,duplicate_full_rows,infinite_numeric_cells,missing_cells
+district_master_table.csv,706,145,0,0,7969
+nfhs5_district_clean.csv,706,29,0,0,275
+crop_production_1997_2022_clean.csv.gz,74242,8,0,0,168
+upag_district_foodgrains_clean.csv.gz,96993,8,0,0,28437
+state_context.csv,32,4,0,0,21
+model_matrix_exploratory_scaled_imputed.csv,653,25,0,0,0
+district_match_table_upag.csv,751,5,0,0,88

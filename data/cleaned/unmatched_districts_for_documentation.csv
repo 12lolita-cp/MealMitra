@@ -1,0 +1,89 @@
+state_k,dist_raw,nfhs_district,method,score
+andhrapradesh,Alluri Sitharama Raju,,unmatched,0.39
+andhrapradesh,Anakapalli,,unmatched,0.526
+andhrapradesh,Annamayya,,unmatched,0.444
+andhrapradesh,Bapatla,,unmatched,0.5
+andhrapradesh,Dr. B.R. Ambedkar Konaseema,,unmatched,0.414
+andhrapradesh,Eluru,,unmatched,0.364
+andhrapradesh,Kakinada,,unmatched,0.533
+andhrapradesh,Nandyal,,unmatched,0.5
+andhrapradesh,Ntr,,unmatched,0.667
+andhrapradesh,Palnadu,,unmatched,0.5
+andhrapradesh,Parvathipuram Manyam,,unmatched,0.444
+andhrapradesh,Sri Sathya Sai,,unmatched,0.5
+andhrapradesh,Tirupati,,unmatched,0.381
+arunachalpradesh,Kamle,,unmatched,0.533
+arunachalpradesh,Leparada,,unmatched,0.5
+arunachalpradesh,Lower Siang,,unmatched,0.737
+arunachalpradesh,Pakke Kessang,,unmatched,0.571
+arunachalpradesh,Shi Yomi,,unmatched,0.333
+assam,Sribhumi,,unmatched,0.353
+chhattisgarh,Balodabazar-Bhatapara,,unmatched,0.71
+chhattisgarh,Balrampur-Ramanujganj,,unmatched,0.621
+chhattisgarh,Gaurela-Pendra-Marwahi,,unmatched,0.429
+chhattisgarh,Khairagarh-Chhuikhadan-Gandai,,unmatched,0.432
+chhattisgarh,Korea,,unmatched,0.8
+chhattisgarh,Manendragarh-Chirmiri-Bharatpur(M C B),,unmatched,0.368
+chhattisgarh,Mohla-Manpur-Ambagarh Chouki,,unmatched,0.375
+chhattisgarh,Sakti,,unmatched,0.462
+chhattisgarh,Sarangarh-Bilaigarh,,unmatched,0.56
+gujarat,Dangs,,unmatched,0.769
+jammuandkashmir,Poonch,,unmatched,0.727
+jharkhand,East Singhbum,,unmatched,0.667
+jharkhand,West Singhbhum,,unmatched,0.667
+karnataka,Bengaluru South,,unmatched,0.545
+karnataka,Vijayanagara,,unmatched,0.667
+ladakh,Leh Ladakh,,unmatched,0.5
+madhyapradesh,Maihar,,unmatched,0.667
+madhyapradesh,Mauganj,,unmatched,0.5
+madhyapradesh,Niwari,,unmatched,0.533
+madhyapradesh,Pandhurna,,unmatched,0.714
+maharashtra,Beed,,unmatched,0.571
+meghalaya,East Jaintia Hills,,unmatched,0.968
+mizoram,Hnahthial,,unmatched,0.533
+mizoram,Khawzawl,,unmatched,0.714
+mizoram,Saitual,,unmatched,0.615
+mizoram,Siaha,,unmatched,0.364
+nagaland,Chumoukedima,,unmatched,0.444
+nagaland,Niuland,,unmatched,0.4
+nagaland,Noklak,,unmatched,0.545
+nagaland,Shamator,,unmatched,0.429
+nagaland,Tseminyu,,unmatched,0.375
+punjab,Malerkotla,,unmatched,0.556
+rajasthan,Balotra,,unmatched,0.667
+rajasthan,Beawar,,unmatched,0.727
+rajasthan,Deeg,,unmatched,0.308
+rajasthan,Didwana-Kuchaman,,unmatched,0.462
+rajasthan,Khairthal-Tijara,,unmatched,0.522
+rajasthan,Kotputli-Behror,,unmatched,0.381
+rajasthan,Phalodi,,unmatched,0.727
+rajasthan,Salumbar,,unmatched,0.615
+sikkim,Gangtok,,unmatched,0.364
+sikkim,Gyalshing,,unmatched,0.308
+sikkim,Mangan,,unmatched,0.2
+sikkim,Namchi,,unmatched,0.364
+sikkim,Pakyong,,unmatched,0.182
+sikkim,Soreng,,unmatched,0.364
+tamilnadu,Chengalpattu,,unmatched,0.583
+tamilnadu,Kallakurichi,,unmatched,0.56
+tamilnadu,Mayiladuthurai,,unmatched,0.667
+tamilnadu,Ranipet,,unmatched,0.429
+tamilnadu,Tenkasi,,unmatched,0.667
+tamilnadu,Tirupathur,,unmatched,0.778
+telangana,Hanumakonda,,unmatched,0.526
+telangana,Mulugu,,unmatched,0.333
+telangana,Narayanpet,,unmatched,0.667
+telangana,Warangal,,unmatched,0.762
+uttarakhand,Pauri Garhwal,,unmatched,0.75
+uttarpradesh,Amroha,,unmatched,0.615
+uttarpradesh,Hathras,,unmatched,0.714
+uttarpradesh,Kasganj,,unmatched,0.588
+westbengal,Alipurduar,,unmatched,0.556
+westbengal,Cooch Behar,,unmatched,0.737
+westbengal,Hooghly,,unmatched,0.5
+westbengal,Howrah,,unmatched,0.727
+westbengal,Jhargram,,unmatched,0.615
+westbengal,Kalimpong,,unmatched,0.556
+westbengal,North 24 Parganas,,unmatched,0.686
+westbengal,Purba Bardhaman,,unmatched,0.71
+westbengal,South 24 Parganas,,unmatched,0.686
